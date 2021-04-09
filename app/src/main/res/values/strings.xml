@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">CustomPhoneDialer</string>
+    <string name="bt_app_notfound">BT App not found!</string>
+    <string name="gvc_app_notfound">GVC App not found!</string>
+    <string name="unexpected_error_failed">Unexpected Error!</string>
 </resources>
